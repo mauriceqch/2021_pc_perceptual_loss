@@ -1,0 +1,2 @@
+#python repack_icip20_perry_quality.py --db_path ~/datassd/icip2020_perry_quality --cc_path /snap/bin/cloudcompare.CloudCompare --new_db_path ~/datassd/2021_pc_perceptual_loss/icip2020_perry_quality_repack
+python repack_icip20_perry_quality.py --db_path ~/datassd/icip2020_perry_quality --cc_path /snap/bin/cloudcompare.CloudCompare --new_db_path ~/datassd/2021_pc_perceptual_loss/icip2020_perry_quality_repack_bin --format BINARY_LE
