@@ -13,6 +13,7 @@
 <sup>1</sup> Université Paris-Saclay, CNRS, CentraleSupélec, Laboratoire des signaux et systèmes, 91190 Gif-sur-Yvette, France  
 <sup>2</sup> Laboratoire PRISME, Universite d’Orléans; Orléans, France
 * **Funding**: ANR ReVeRy national fund (REVERY ANR-17-CE23-0020)
+* **Paper**: https://arxiv.org/abs/2102.12839
 
 ## Prerequisites
 
